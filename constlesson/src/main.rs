@@ -1,8 +1,8 @@
 use std::io;
 use std::io::prelude::*;
+use std::f64::consts::PI;
 
 fn main() {
-    const PI: f64 = std::f64::consts::PI;
 
     let mut height = String::new();
     let mut radius = String::new();
