@@ -51,6 +51,12 @@ Exemplos com operações matemáticas:
 
 Exemplo de cálculo de **quociente**.
 
+---
+
+### ➗ allowlesson
+
+Exemplo sobre **allow** e como desativar alguma advertência.
+
 
 
 
