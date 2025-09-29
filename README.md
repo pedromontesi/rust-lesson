@@ -53,7 +53,7 @@ Exemplo de cálculo de **quociente**.
 
 ---
 
-### ➗ allowlesson
+### ✔️ allowlesson
 
 Exemplo sobre **allow** e como desativar alguma advertência.
 
